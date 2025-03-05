@@ -1,0 +1,8 @@
+.odd {
+  background-color: hsl(360, 100%, 82%);
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler-class {
+  font-size: 24px;
+}
