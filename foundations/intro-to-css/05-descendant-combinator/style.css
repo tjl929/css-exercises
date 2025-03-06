@@ -1,0 +1,6 @@
+.container p {
+  background-color: #f7ff08;
+  color: hsl(0, 96%, 42%);
+  font-size: 20px;
+  text-align: center;
+}
